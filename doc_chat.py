@@ -19,6 +19,7 @@ api_key = st.secrets["OPENAI_API_KEY"]
 os.environ["OPENAI_API_KEY"] = api_key
 
 
+
 # ---------- CONFIG ----------
 DOCS_FOLDER = "pdf"  # put your PDFs, txts, ipynb here
 EMBED_MODEL_NAME = "sentence-transformers/all-MiniLM-L6-v2"

@@ -1,0 +1,8 @@
+streamlit
+python-dotenv
+groq
+sentence-transformers
+scikit-learn
+pypdf
+nbformat
+numpy==1.26.4

@@ -10,6 +10,9 @@ from groq import Groq
 import streamlit as st
 
 import streamlit as st
+st.write(st.secrets)
+
+import streamlit as st
 import os
 
 api_key = st.secrets["OPENAI_API_KEY"]
